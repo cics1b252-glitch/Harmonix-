@@ -1,0 +1,6 @@
+{
+  "name": "Harmonix Studio - Áudio & Partitura Bidirecional",
+  "description": "Transforme qualquer música em partitura com separação por famílias de instrumentos (cordas, teclas, percussão, sopros, metais, coral) e o caminho inverso: leia partituras e sintetize áudio estúdio de alta fidelidade com exportação de WAV e stems.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
